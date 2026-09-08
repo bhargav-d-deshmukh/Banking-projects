@@ -215,7 +215,7 @@ class BankingSystem:
         while True:
             print("\n")
             print("========================================")
-            print("       WELCOME TO VIJAY MALLYA BANK")
+            print("       WELCOME TO VIJAY BANK")
             print("========================================")
             print("1. Create Account")
             print("2. Login")
@@ -234,7 +234,7 @@ class BankingSystem:
                     self.account_menu(account)
 
             elif choice == "3":
-                print("\nThank you for using VIJAY MALLYA Bank!")
+                print("\nThank you for using VIJAY Bank!")
                 print("Goodbye!")
                 break
 
